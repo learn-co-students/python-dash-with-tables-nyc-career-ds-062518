@@ -1,5 +1,4 @@
-import unittest, sys, json
-sys.path.insert(0, '..')
+import unittest, json
 from dashwithtables import app
 
 class DashTablesTestCase(unittest.TestCase):
